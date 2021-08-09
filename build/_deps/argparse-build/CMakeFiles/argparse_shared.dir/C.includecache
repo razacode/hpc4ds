@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-src/argparse.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+errno.h
+-
+argparse.h
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-src/argparse.h
+
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-src/argparse.h
+stdint.h
+-
+

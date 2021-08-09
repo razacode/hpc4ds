@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-update.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"argparse-populate"
+		],
+		"name" : "argparse-populate"
+	}
+}

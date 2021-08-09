@@ -1,0 +1,7 @@
+/mnt/c/Users/User/Desktop/hpc4ds/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/User/Desktop/hpc4ds/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/User/Desktop/hpc4ds/build/CMakeFiles/sudoku.dir
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-build/CMakeFiles/argparse.dir
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/User/Desktop/hpc4ds/build/_deps/argparse-build/CMakeFiles/argparse_shared.dir
